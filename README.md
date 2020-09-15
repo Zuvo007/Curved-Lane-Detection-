@@ -3,11 +3,11 @@ Introduction : Autonomous Driving Car is one of the most disruptive innovations 
 
 There are some very important key factors which I have to take care off while doing this project.so these key steps are:
 
-**1. Read and decode video files into proper frames.
-**2. Gray scale conversion of continuous images that it's getting.
-**3. Reducing noises by applying various filters.
-**4. Detect edges and mask the canny image.
-**5. Find the co-ordinates of the lane.
+**1. Read and decode video files into proper frames.**
+**2. Gray scale conversion of continuous images that it's getting.**
+**3. Reducing noises by applying various filters.**
+**4. Detect edges and mask the canny image.**
+**5. Find the co-ordinates of the lane.**
 **6. Fit the co-ordinates into the canny image.**
 
 So after doing this important parts finally the project waas done and doing these tasks were quite challenging and so let's share a few lines what are these actually steps are :
