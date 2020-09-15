@@ -23,6 +23,8 @@ I am sharing my outputs so that you can have a better intuition how actually thi
 
 <img src="https://github.com/Zuvo007/Curved-Lane-Detection-/blob/master/Outputs/output1.png">
 
+<img src="https://github.com/Zuvo007/Curved-Lane-Detection-/blob/master/Outputs/output2.png">
+
 
 
 
