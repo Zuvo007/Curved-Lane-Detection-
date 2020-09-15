@@ -22,6 +22,8 @@ So after doing this important parts finally the project waas done and doing thes
 I am sharing my outputs so that you can have a better intuition how actually this gonna looks like.
 
 <img src="https://github.com/Zuvo007/Curved-Lane-Detection-/blob/master/Outputs/output1.png">
+<br>
+<br>
 
 <img src="https://github.com/Zuvo007/Curved-Lane-Detection-/blob/master/Outputs/output2.png">
 
