@@ -21,7 +21,7 @@ So after doing this important parts finally the project waas done and doing thes
 
 I am sharing my outputs so that you can have a better intuition how actually this gonna looks like.
 
-<img src="./output1.jpg">
+<img src="./Outputs/output1.jpg">
 
 
 
